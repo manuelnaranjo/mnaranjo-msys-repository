@@ -1,0 +1,7 @@
+##
+## mnaranjo msys repository mirrorlist
+##
+
+## Primary
+Server = https://media.githubusercontent.com/media/manuelnaranjo/mnaranjo-msys-repository/master/$arch
+SigLevel = Optional TrustAll
